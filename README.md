@@ -6,7 +6,12 @@ HelloWorldと表示
 
 ## コード
 ```
-console.log("Hello World");
+(function () {
+    'use strict';
+
+    console.log("Hello World");
+
+})();
 ```
 
 ## 出力結果  
