@@ -1,12 +1,12 @@
 # JsHelloWorld
-HelloWorldと表示
+Hello Worldと表示
 
 ## 処理
-画面に`HelloWorld`と表示
+画面に`Hello World`と表示
 
 ## コード
 ```
-(function () {
+(function() {
     'use strict';
 
     console.log("Hello World");
